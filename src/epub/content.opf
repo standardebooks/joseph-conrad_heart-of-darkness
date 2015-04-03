@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-03T00:05:35Z</meta>
+		<meta property="dcterms:modified">2015-04-03T00:11:00Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -38,7 +38,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/219</dc:source>
 		<meta property="se:word-count">38799</meta>
-		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Heart_of_Darkness</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Heart_of_Darkness</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joseph_conrad</meta>
