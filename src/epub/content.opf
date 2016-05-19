@@ -45,7 +45,7 @@
 		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
 		<meta property="se:name.person.full-name" refines="#author">Józef Teodor Konrad Korzeniowski</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joseph_conrad</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">William Michaud von Vevey</dc:contributor>
 		<meta property="file-as" refines="#artist">Vevey, William Michaud von</meta>
