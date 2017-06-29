@@ -33,7 +33,7 @@
 		<dc:description id="description">A steamer captain in the heart of Africa witnesses the final days of a brutal ivory trader.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Originally published serially as three-part story, &lt;i&gt;Heart of Darkness&lt;/i&gt; is a short but thematically complex novel exploring colonialism, humanity, and what constitutes a savage society.  Set in the Congo in Central Africa, the tale is told in the frame of the recollections of one Charles Marlow, a captain of an ivory steamer.  Marlow’s search for the mysterious and powerful “first-class agent” Kurtz gives way to a nuanced and powerful commentary on the horrors of colonialism, called by some the most analyzed work at university-level instruction.&lt;/p&gt;
+			&lt;p&gt;Originally published serially as a three-part story, &lt;i&gt;Heart of Darkness&lt;/i&gt; is a short but thematically complex novel exploring colonialism, humanity, and what constitutes a savage society. Set in the Congo in Central Africa, the tale is told in the frame of the recollections of one Charles Marlow, a captain of an ivory steamer. Marlow’s search for the mysterious and powerful “first-class agent” Kurtz gives way to a nuanced and powerful commentary on the horrors of colonialism, called by some the most analyzed work at university-level instruction.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
