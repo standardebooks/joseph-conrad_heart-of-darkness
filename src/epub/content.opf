@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Heart of Darkness</dc:title>
 		<meta property="file-as" refines="#title">Heart of Darkness</meta>
 		<dc:subject id="subject-1">Europeans--Africa--Fiction</dc:subject>
@@ -34,18 +34,21 @@
 		<dc:subject id="subject-3">Degeneration--Fiction</dc:subject>
 		<dc:subject id="subject-4">Imperialism--Fiction</dc:subject>
 		<dc:subject id="subject-5">Africa--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/87015645</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/87015645</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/87015645</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/87015645</meta>
-		<meta property="meta-auth" refines="#subject-5">http://lccn.loc.gov/87015645</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008119942</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010116792</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2009123095</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008104273</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2007101346</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A steamer captain in the heart of Africa witnesses the final days of a brutal ivory trader.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Originally published serially as a three-part story, &lt;i&gt;Heart of Darkness&lt;/i&gt; is a short but thematically complex novel exploring colonialism, humanity, and what constitutes a savage society. Set in the Congo in Central Africa, the tale is told in the frame of the recollections of one Charles Marlow, a captain of an ivory steamer. Marlow’s search for the mysterious and powerful “first-class agent” Kurtz gives way to a nuanced and powerful commentary on the horrors of colonialism, called by some the most analyzed work at university-level instruction.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/219</dc:source>
 		<meta property="se:word-count">38791</meta>
