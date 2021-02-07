@@ -51,6 +51,9 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">32</meta>
+		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">21</meta>
 		<dc:description id="description">A steamer captain in the heart of Africa witnesses the final days of a brutal ivory trader.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Originally published serially as a three-part story, &lt;i&gt;Heart of Darkness&lt;/i&gt; is a short but thematically complex novel exploring colonialism, humanity, and what constitutes a savage society. Set in the Congo in Central Africa, the tale is told in the frame of the recollections of one Charles Marlow, a captain of an ivory steamer. Marlow’s search for the mysterious and powerful “first-class agent” Kurtz gives way to a nuanced and powerful commentary on the horrors of colonialism, called by some the most analyzed work at university-level instruction.&lt;/p&gt;
