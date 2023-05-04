@@ -66,7 +66,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/219</dc:source>
 		<dc:source>https://books.google.com/books?id=dcxGAAAAYAAJ</dc:source>
 		<meta property="se:word-count">38792</meta>
-		<meta property="se:reading-ease.flesch">71.34</meta>
+		<meta property="se:reading-ease.flesch">71.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Heart_of_Darkness</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_heart-of-darkness</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
